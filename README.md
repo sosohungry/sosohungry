@@ -1,90 +1,126 @@
-# 👋 Hi, I'm sosohungry
+# <img src="https://raw.githubusercontent.com/icebear0828/icebear0828/master/header_.svg" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Android+Developer;Agent+Engineer;IoT+Enthusiast&font=Fira%20Code&center=true&width=380&height=50&duration=2000&pause=1000" alt="Typing SVG">
+  <a href="https://github.com/sosohungry">
+    <img src="https://img.shields.io/badge/Profile-96C840?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+  </a>
+  <a href="https://github.com/sosohungry?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-3?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+  </a>
+  <a href="https://github.com/sosohungry/stars">
+    <img src="https://img.shields.io/badge/Stars-0-yellow?style=for-the-badge&logo=starship&logoColor=white" alt="Stars"/>
+  </a>
+  <a href="https://github.com/sosohungry?tab=followers">
+    <img src="https://img.shields.io/badge/Followers-5-blue?style=for-the-badge&logo=github&logoColor=white" alt="Followers"/>
+  </a>
 </p>
 
 ---
 
-## 📋 About Me
+## <img src="https://raw.githubusercontent.com/icebear0828/icebear0828/master/icon.png" width="20"/> Bio
 
-- 🔭 Currently working on **Android Development** & **Agent Applications**
-- 🌱 Learning **C++ JNI**, **ESP32**, and **Design Patterns**
-- 💬 Ask me about anything tech-related
-- 📫 Reach me: 799238605@qq.com
+<div align="center">
 
----
+**Android Developer · Agent Engineer · IoT Enthusiast**
 
-## 🛠 Tech Stack
+*I build intelligent mobile applications and autonomous AI agents.*
 
-**Languages & Frameworks**
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sosohungry&theme=dracula&hide_border=false&background=0d1117&border=30363d" alt="Streak" width="48%"/>
 
-**Android**
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![Room](https://img.shields.io/badge/Room-003B57?style=flat-square&logo=room&logoColor=white)
-
-**AI & Agent**
-![LangChain](https://img.shields.io/badge/LangChain-FF6B35?style=flat-square&logo=langchain&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-FF6B6B?style=flat-square&logoColor=white)
-
-**IoT**
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://raw.githubusercontent.com/icebear0828/icebear0828/master/pin.png" width="20"/> Tech Stack
+
+<div align="center">
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=kotlin,python,cpp,java,typescript,go,rust" />
+</p>
+
+### Android & Mobile
+<p>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+<img src="https://img.shields.io/badge/Room-003B57?style=for-the-badge&logo=room&logoColor=white"/>
+</p>
+
+### AI & Agent
+<p>
+<img src="https://img.shields.io/badge/LangChain-FF6B35?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-FF6B6B?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+</p>
+
+### IoT & Tools
+<p>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/>
+</p>
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/icebear0828/icebear0828/master/work.svg" width="20"/> Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/sosohungry/sosohungry.github.io">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sosohungry&repo=sosohungry.github.io&theme=dracula&hide_border=false&show_owner=true" alt="sosohungry.github.io"/>
+</a>
+
+<a href="https://github.com/sosohungry/sosohungry">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sosohungry&repo=sosohungry&theme=dracula&hide_border=false&show_owner=true" alt="sosohungry"/>
+</a>
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/icebear0828/icebear0828/master/snake.svg" width="20"/> Contribution Snake
+
+<div align="center">
+
+![snake gif](https://raw.githubusercontent.com/sosohungry/sosohungry/output/github-snake-dark.svg)
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/icebear0828/icebear0828/master/github.svg" width="20"/> Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sosohungry&show_icons=true&theme=dracula&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=sosohungry&show_icons=true&theme=dracula&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sosohungry&theme=dracula&hide_border=false&layout=compact" alt="Top Langs" width="45%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sosohungry&theme=dracula&hide_border=false" alt="GitHub Streak">
+  <img src="https://leetcard.jacoblin.cool/sosohungry?theme=dracula&font=Fira%20Code&ext=activity" alt="LeetCode Stats" width="60%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sosohungry&theme=dracula&margin-w=15&margin-h=15" alt="Trophy"/>
 </p>
 
 ---
 
-## 🏆 LeetCode Stats
-
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sosohungry?theme=dracula&font=Fira%20Code&ext=activity" alt="LeetCode Stats">
+  <img src="https://raw.githubusercontent.com/icebear0828/icebear0828/master/footer.svg" width="100%"/>
 </p>
 
----
+<div align="center" style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 20px; border-radius: 10px;">
 
-## 📝 Recent Activity
+<img src="https://visit-count.werid.uk/badge?id=sosohungry" alt="Visit Count"/>
 
-<!--
-START_SECTION:activity
--->
-<!-- dynamically generate activity from GitHub API -->
-<!-- end -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sosohungry&theme=dracula&margin-w=15&margin-h=15" alt="Trophy">
-</p>
+<br/>
 
----
+<a href="mailto:799238605@qq.com">
+  <img src="https://img.shields.io/badge/Email-799238605@qq.com-red?style=for-the-badge&logo=mail&logoColor=white"/>
+</a>
 
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/sosohungry"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://sosohungry.github.io"><img src="https://img.shields.io/badge/Personal%20Site-667eea?style=flat-square&logo=website&logoColor=white" alt="Website"></a>
-</p>
-
----
-
-<p align="center">
-  <i>⭐️ From sosohungry</i>
-</p>
+</div>
