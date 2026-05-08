@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/icebear0828/icebear0828/master/header_.svg" width="100%"/>
+# <img src="https://raw.githubusercontent.com/sosohungry/sosohungry/master/header_.svg" width="100%"/>
 
 <p align="center">
   <a href="https://github.com/sosohungry">
@@ -17,11 +17,13 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/icebear0828/icebear0828/master/icon.png" width="20"/> Bio
+## <img src="https://raw.githubusercontent.com/sosohungry/sosohungry/master/icon.svg" width="20"/> Bio
 
 <div align="center">
 
 **Android Developer · Agent Engineer · IoT Enthusiast**
+
+*"Stay Hungry Stay Foolish"*
 
 *I build intelligent mobile applications and autonomous AI agents.*
 
@@ -31,7 +33,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/icebear0828/icebear0828/master/pin.png" width="20"/> Tech Stack
+## <img src="https://raw.githubusercontent.com/sosohungry/sosohungry/master/pin.svg" width="20"/> Tech Stack
 
 <div align="center">
 
@@ -66,7 +68,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/icebear0828/icebear0828/master/work.svg" width="20"/> Featured Projects
+## <img src="https://raw.githubusercontent.com/sosohungry/sosohungry/master/work.svg" width="20"/> Featured Projects
 
 <div align="center">
 
@@ -82,7 +84,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/icebear0828/icebear0828/master/snake.svg" width="20"/> Contribution Snake
+## <img src="https://raw.githubusercontent.com/sosohungry/sosohungry/master/snake.svg" width="20"/> Contribution Snake
 
 <div align="center">
 
@@ -92,7 +94,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/icebear0828/icebear0828/master/github.svg" width="20"/> Stats
+## <img src="https://raw.githubusercontent.com/sosohungry/sosohungry/master/github.svg" width="20"/> Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sosohungry&show_icons=true&theme=dracula&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" width="45%"/>
@@ -110,7 +112,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/icebear0828/icebear0828/master/footer.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/sosohungry/sosohungry/master/footer.svg" width="100%"/>
 </p>
 
 <div align="center" style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 20px; border-radius: 10px;">
