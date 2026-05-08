@@ -70,39 +70,37 @@
 
 ## <img src="https://raw.githubusercontent.com/sosohungry/sosohungry/master/projects.svg" width="20"/> Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/sosohungry/sosohungry.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sosohungry&repo=sosohungry.github.io&theme=dracula&hide_border=false&show_owner=true" alt="sosohungry.github.io"/>
-</a>
-
-<a href="https://github.com/sosohungry/sosohungry">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sosohungry&repo=sosohungry&theme=dracula&hide_border=false&show_owner=true" alt="sosohungry"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/sosohungry/sosohungry.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sosohungry&repo=sosohungry.github.io&theme=dracula&hide_border=false&show_owner=true" alt="sosohungry.github.io"/>
+  </a>
+  <a href="https://github.com/sosohungry/sosohungry">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sosohungry&repo=sosohungry&theme=dracula&hide_border=false&show_owner=true" alt="sosohungry"/>
+  </a>
+</p>
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/sosohungry/sosohungry/master/snake_icon.svg" width="20"/> Contribution Snake
 
-<div align="center">
-
-![snake gif](https://raw.githubusercontent.com/sosohungry/sosohungry/output/github-snake-dark.svg)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sosohungry&theme=dracula&bg_color=0d1117" alt="Contribution Graph"/>
+</p>
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/sosohungry/sosohungry/master/stats.svg" width="20"/> Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sosohungry&show_icons=true&theme=dracula&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sosohungry&theme=dracula&hide_border=false&layout=compact" alt="Top Langs" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sosohungry&show_icons=true&theme=dracula&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sosohungry?theme=dracula&font=Fira%20Code&ext=activity" alt="LeetCode Stats" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sosohungry&theme=dracula&hide_border=false&layout=compact" alt="Top Langs"/>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sosohungry?theme=dracula&font=Fira%20Code&ext=activity" alt="LeetCode Stats"/>
 </p>
 
 <p align="center">
