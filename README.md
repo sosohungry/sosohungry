@@ -101,10 +101,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sosohungry&theme=dracula&hide_border=false&layout=compact" alt="Top Langs" width="45%"/>
 </p>
 
----
-
-## <img src="https://raw.githubusercontent.com/sosohungry/sosohungry/master/langs.svg" width="20"/> Top Languages
-
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/sosohungry?theme=dracula&font=Fira%20Code&ext=activity" alt="LeetCode Stats" width="60%"/>
 </p>
