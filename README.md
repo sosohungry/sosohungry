@@ -98,9 +98,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sosohungry&show_icons=true&theme=dracula&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" width="45%"/>
-  <img src="https://raw.githubusercontent.com/sosohungry/sosohungry/master/langs.svg" width="20"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sosohungry&theme=dracula&hide_border=false&layout=compact" alt="Top Langs" width="45%"/>
 </p>
+
+---
+
+## <img src="https://raw.githubusercontent.com/sosohungry/sosohungry/master/langs.svg" width="20"/> Top Languages
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/sosohungry?theme=dracula&font=Fira%20Code&ext=activity" alt="LeetCode Stats" width="60%"/>
